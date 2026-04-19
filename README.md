@@ -2,7 +2,7 @@
 
 AI Engineer with a keen on Product Design and Management
 
-`_Human Intelligence understanding Artifical Intelligence_`
+ _"Human Intelligence understanding Artifical Intelligence"_ 
 
 ## 🔭 What I work on
 
