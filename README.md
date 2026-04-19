@@ -1,6 +1,6 @@
 ## Hi there, I am Siddhartha Rishi 👋
 
-AI Engineer  
+_Human Intelligence understanding Artifical Intelligence_
 
 ## 🔭 What I work on
 
